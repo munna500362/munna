@@ -1,0 +1,59 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+ 
+nav{
+    display: flex;
+    align-items: center;
+    padding: 0px 150px;
+    justify-content: space-between;
+}
+
+.nav-text{
+    color: black;
+    font-size: 50px;
+    width: 600px;
+}
+
+.mark-color{
+    color:coral;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    padding-right: 30px;
+}
+nav a{
+    text-decoration: none;
+}
+.text-primary{
+    color: white;
+    background-color: coral;
+    padding: 15px 35px;
+    border-radius: 5px;
+    border:0px;
+    font-size: 15px;
+    font-weight: 400px;
+}
+
+.header{
+    background-color:#fff8f3;
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    padding: 30px  15px 0px 150px;
+}
+.body-imag{
+    height: 400px;
+    padding: 5px 0px 0px 280px;
+}
+.contact{
+    color: coral;
+    background-color: white;
+    display:flex;
+}
